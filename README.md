@@ -3,5 +3,5 @@
 ## Mark Down 연습중.
 
 Item list
-	   item1
+   item1
    item2
