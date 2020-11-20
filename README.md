@@ -3,7 +3,7 @@
 ## Mark Down 연습중.
 
 - 이텔릭 효과는 *italic* 을 사용합니다.
-- 굵게 효과는 _bold_를 사용합니다.
+- 굵게 효과는 __bold__를 사용합니다.
 - 취소선 효과 ~Github~
 - [Google](https://google.com/)
 
